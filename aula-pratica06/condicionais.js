@@ -1,3 +1,4 @@
+//condicionais pt 1
 const idade = 0;
 const maiorIdade = idade >= 18;
 
